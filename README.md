@@ -14,7 +14,7 @@ The supermarket wants to create a sales report from three different stores in th
 - To identify trend over time.
 - Relationship between product unit price and category.
 
-- Dashboard Interaction <a herf = "https://github.com/Anna-Vincent/Data-analysis-dashboard/blob/main/Screenshot%202025-12-04%20194401.png" > View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/Anna-Vincent/Data-analysis-dashboard/blob/main/Screenshot%202025-12-04%20194401.png"> View Dashboard </a>
 
 ## Process
 - Data is been preprocessed to remove anomalities.
