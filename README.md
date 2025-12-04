@@ -23,4 +23,5 @@ The supermarket wants to create a sales report from three different stores in th
 - Create a dashboard by  merging all the pivot tables and adding slicer to it.
 
 ## Dashboard
-"C:\Users\USER\Documents\Excel Dashboard\Screenshot 2025-12-04 194401.png"
+
+<img width="1613" height="856" alt="Screenshot 2025-12-04 194401" src="https://github.com/user-attachments/assets/8c305639-7005-44d9-babd-0f236c9f8174" />
