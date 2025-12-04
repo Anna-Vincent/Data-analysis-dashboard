@@ -1,2 +1,4 @@
-# Data-analysis-dashboard
-I developed a comprehensive project in Excel, creating multiple dashboards and tables inorder to analyse and visualize data. This process involved several stages including data preprocessing, data cleaning and visualization.
+# SUPERMARKET SALES DATA ANALYSIS
+## Project Objective
+The supermarket wants to create a sales report from three different stores in three cities to know about the sales and to implement more ideas to grow sales.
+## Dataset used
